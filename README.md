@@ -1,4 +1,4 @@
-# Macro Toggle Tool (Linux MintとUbuntuで動作確認)
+# Macro Program For Linux
 
 ホットキーで **マクロ開始/停止(トグル)**　できる常駐型ツールです。  
 マクロは `macros.json` に「キー入力」「待機」「マウス操作」などの手順を定義します。
