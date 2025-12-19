@@ -1,0 +1,14 @@
+{
+  "input_device": "/dev/input/by-id/usb-Logitech_G915_X_LS_TKL_07F97F20-event-kbd",
+  "trigger_hotkey": "<ctrl>+<shift>+e",
+  "quit_hotkey": "<ctrl>+<shift>+q",
+  "loop": true,
+  "macro": [
+    { "type": "key", "key": "a", "action": "press" },
+    { "type": "wait", "seconds": 10 },
+    { "type": "key", "key": "a", "action": "release" },
+    { "type": "key", "key": "d", "action": "press" },
+    { "type": "wait", "seconds": 10 },
+    { "type": "key", "key": "d", "action": "release" }
+  ]
+}
