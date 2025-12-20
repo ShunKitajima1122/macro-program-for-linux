@@ -19,9 +19,9 @@
 ```
 
 macro-program-for-linux/
-macro_toggle.py
-macros.json
-README.md
+  macro_toggle.py
+  macros.json
+  README.md
 
 ````
 
